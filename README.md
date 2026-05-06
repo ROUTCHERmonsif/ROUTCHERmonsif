@@ -39,25 +39,22 @@
 <tr>
 
 <td align="center">
-<img src="./TrackiLogistic.png" width="200"/><br/>
+<img src="./TrackiLogistic.png" height="420"/><br/>
 <strong>Logistics</strong>
 </td>
 
 <td align="center">
-<img src="./trackiace.png" width="200"/><br/>
+<img src="./trackiace.png" height="420"/><br/>
 <strong>Production (ACE)</strong>
 </td>
 
 <td align="center">
-<img src="./trackipal.png" width="200"/><br/>
+<img src="./trackipal.png" height="420"/><br/>
 <strong>Operator (Pal)</strong>
 </td>
 
 </tr>
 </table>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="center">
