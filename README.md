@@ -99,10 +99,6 @@
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" style="margin:10px;" />
 </a>
 
-<a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank">
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/xamarin.svg" width="45" style="margin:10px;" />
-</a>
-
 </p>
 
 ---
