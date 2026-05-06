@@ -49,7 +49,7 @@
 <strong>Operator (Pal)</strong>
 </p>
 
-### 🛠️ Languages & Tools
+### 🛠️ Technologies I Master
 
 <p align="center">
 
