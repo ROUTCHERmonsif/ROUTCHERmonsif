@@ -44,7 +44,7 @@
 </td>
 
 <td align="center">
-<img src="./tracki-ace.png" width="200"/><br/>
+<img src="./trackiace.png" width="200"/><br/>
 <strong>Production (ACE)</strong>
 </td>
 
