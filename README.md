@@ -35,39 +35,19 @@
 
 ### 📸 App Preview (TRACKI)
 
-<table align="center">
-<tr>
-
-<td align="center">
-<img src="./TrackiLogistic.png" height="420"/><br/>
-<strong>Logistics</strong>
-</td>
-
-<td align="center">
-<img src="./trackiace.png" height="420"/><br/>
-<strong>Production (ACE)</strong>
-</td>
-
-<td align="center">
-<img src="./trackipal.png" height="420"/><br/>
-<strong>Operator (Pal)</strong>
-</td>
-
-</tr>
-</table>
-### 🌐 Connect with Me
-
 <p align="center">
-<a href="https://fb.com/monsif.2014im" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35" style="margin:10px;" />
-</a>
 
-<a href="https://instagram.com/monsifibh" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" style="margin:10px;" />
-</a>
+<img src="./TrackiLogistic.png" height="220" style="margin: 0 10px;" />
+<img src="./trackiace.png" height="220" style="margin: 0 10px;" />
+<img src="./trackipal.png" height="220" style="margin: 0 10px;" />
+
 </p>
 
----
+<p align="center">
+<strong>Logistics</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Production (ACE)</strong> &nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Operator (Pal)</strong>
+</p>
 
 ### 🛠️ Languages & Tools
 
