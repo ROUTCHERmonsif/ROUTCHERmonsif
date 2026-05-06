@@ -31,26 +31,30 @@
 
 ---
 
+---
+
 ### 📸 App Preview (TRACKI)
 
-<p align="center">
+<table align="center">
+<tr>
 
-<span style="display:inline-block; margin:10px; text-align:center;">
-  <img src="./TrackiLogistic.png" width="180"/><br/>
-  <strong>Logistics</strong>
-</span>
+<td align="center">
+<img src="./TrackiLogistic.png" width="200"/><br/>
+<strong>Logistics</strong>
+</td>
 
-<span style="display:inline-block; margin:10px; text-align:center;">
-  <img src="./tracki-ace.png" width="180"/><br/>
-  <strong>Production (ACE)</strong>
-</span>
+<td align="center">
+<img src="./tracki-ace.png" width="200"/><br/>
+<strong>Production (ACE)</strong>
+</td>
 
-<span style="display:inline-block; margin:10px; text-align:center;">
-  <img src="./trackipal.png" width="180"/><br/>
-  <strong>Operator (Pal)</strong>
-</span>
+<td align="center">
+<img src="./trackipal.png" width="200"/><br/>
+<strong>Operator (Pal)</strong>
+</td>
 
-</p>
+</tr>
+</table>
 
 ---
 
